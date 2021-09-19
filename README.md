@@ -7,7 +7,7 @@ This project aims to analyze the Human Freedom Index dataset and obtain insights
 The dataset is used as a data frame with 1782 observations on the following 112 whose variables contains information from Human Freedom Index reports from 2008-2018.
 <br>
 
-Please view the Human Freedom Index Analysis.pdf for further details and analysis results.
+Please view the Human Freedom Index Analysis.pdf for dataset details and analysis results.
 
 This dataset is taken from Kaggle: https://www.kaggle.com/gsutters/the-human-freedom-index?select=hfi_cc_2020.csv.
 
