@@ -10,3 +10,5 @@ The dataset is used as a data frame with 1782 observations on the following 112 
 Please view the Human Freedom Index Analysis.pdf for further details and analysis results.
 
 This dataset is taken from Kaggle: https://www.kaggle.com/gsutters/the-human-freedom-index?select=hfi_cc_2020.csv.
+
+Drive link to the Human_Freedom_Index_Analysis.ipynb: https://colab.research.google.com/drive/1rQW1xZFwhkuD7CZnrZEzxZroCVVObwVN?usp=sharing
